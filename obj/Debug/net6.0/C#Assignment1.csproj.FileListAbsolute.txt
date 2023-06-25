@@ -1,0 +1,15 @@
+C:\Users\kaurs\Desktop\C# A1 group\C#Assignment1\bin\Debug\net6.0\C#Assignment1.exe
+C:\Users\kaurs\Desktop\C# A1 group\C#Assignment1\bin\Debug\net6.0\C#Assignment1.deps.json
+C:\Users\kaurs\Desktop\C# A1 group\C#Assignment1\bin\Debug\net6.0\C#Assignment1.runtimeconfig.json
+C:\Users\kaurs\Desktop\C# A1 group\C#Assignment1\bin\Debug\net6.0\C#Assignment1.dll
+C:\Users\kaurs\Desktop\C# A1 group\C#Assignment1\bin\Debug\net6.0\C#Assignment1.pdb
+C:\Users\kaurs\Desktop\C# A1 group\C#Assignment1\obj\Debug\net6.0\C#Assignment1.csproj.AssemblyReference.cache
+C:\Users\kaurs\Desktop\C# A1 group\C#Assignment1\obj\Debug\net6.0\C#Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaurs\Desktop\C# A1 group\C#Assignment1\obj\Debug\net6.0\C#Assignment1.AssemblyInfoInputs.cache
+C:\Users\kaurs\Desktop\C# A1 group\C#Assignment1\obj\Debug\net6.0\C#Assignment1.AssemblyInfo.cs
+C:\Users\kaurs\Desktop\C# A1 group\C#Assignment1\obj\Debug\net6.0\C#Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\kaurs\Desktop\C# A1 group\C#Assignment1\obj\Debug\net6.0\C#Assignment1.dll
+C:\Users\kaurs\Desktop\C# A1 group\C#Assignment1\obj\Debug\net6.0\refint\C#Assignment1.dll
+C:\Users\kaurs\Desktop\C# A1 group\C#Assignment1\obj\Debug\net6.0\C#Assignment1.pdb
+C:\Users\kaurs\Desktop\C# A1 group\C#Assignment1\obj\Debug\net6.0\C#Assignment1.genruntimeconfig.cache
+C:\Users\kaurs\Desktop\C# A1 group\C#Assignment1\obj\Debug\net6.0\ref\C#Assignment1.dll
